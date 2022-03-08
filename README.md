@@ -1,5 +1,5 @@
 # voice-assistant
-I have made a voice assistant with the help of python. The assistant takes command as an voice input. the assistat has following feateaures:-
+I have made a voice assistant with the help of python. The assistant takes command as an voice input. the assistat has following features:-
 1. Login and registeration of user.
 2. jokes
 3. sending and receiving email through voice only
