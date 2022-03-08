@@ -12,3 +12,5 @@ I have made a voice assistant with the help of python. The assistant takes comma
 10.  shuttig down, restarting pc
 11.  emptying recycle bin
 12.  Writing notes
+
+Main executable file is voice_recog.py
